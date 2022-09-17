@@ -17,6 +17,7 @@
 ```
 
 2- Than add a 1000x1000 pixel background image in files/BG.jpg 
+![BG.jpg](files/BG.jpg)
 
 3- and run:
 
